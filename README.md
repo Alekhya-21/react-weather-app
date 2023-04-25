@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Weather App
+A simple Weather App built with React.js with search city using OpenWeatherMap's API. 
+![image](https://user-images.githubusercontent.com/115908261/234320473-7951445b-82b0-47ea-a874-ed286980c733.png)
+![image](https://user-images.githubusercontent.com/115908261/234320567-43726ca2-e1b0-45d0-930b-03e7760fd9be.png)
+![image](https://user-images.githubusercontent.com/115908261/234320647-10b18b72-b6c0-4ebc-947b-6bf15039152e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
